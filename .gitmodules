@@ -2,5 +2,6 @@
     path = themes/notepadium
     url = https://github.com/cntrump/hugo-notepadium.git
 [submodule "public"]
-    path = public
-    url = https://github.com/zyzyx/zyzyx.github.io.git
+	path = public
+	url = https://github.com/zyzyx/zyzyx.github.io.git
+	branch = master
