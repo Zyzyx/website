@@ -1,0 +1,10 @@
+#!/bin/bash
+set -e
+
+hugo -t notepadium
+pushd public
+git add .
+git commit -m "rebuilding site $(date '+%D %R')"
+git push origin master
+popd
+
