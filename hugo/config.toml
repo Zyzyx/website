@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Website for Jay Greguske"
+theme = "notepadium"
