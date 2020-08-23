@@ -1,3 +1,6 @@
-[submodule "hugo/themes/hugo-notepadium"]
-	path = hugo/themes/notepadium
-	url = https://github.com/cntrump/hugo-notepadium.git
+[submodule "themes/hugo-notepadium"]
+    path = themes/notepadium
+    url = https://github.com/cntrump/hugo-notepadium.git
+[submodule "public"]
+    path = public
+    url = https://github.com/zyzyx/zyzyx.github.io.git
