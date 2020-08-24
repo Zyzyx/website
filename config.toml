@@ -1,4 +1,20 @@
 baseURL = "http://zyzyx.github.io/"
 languageCode = "en-us"
-title = "Website for Jay Greguske"
+title = "Jay Greguske's Website"
 theme = "notepadium"
+enableRobotsTXT = true
+
+[params]
+style = "dark"
+
+[params.comments]
+enable = false
+
+[params.nav]
+showCategories = true
+showTags = true
+
+[[params.nav.custom]]
+title = "About"
+url = "/about"
+
