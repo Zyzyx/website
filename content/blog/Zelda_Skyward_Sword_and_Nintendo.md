@@ -1,0 +1,26 @@
+
+---
+title: "Zelda: Skyward Sword and Nintendo"
+date: "2012-02-21T12:53:00-04:00"
+draft: false
+---
+
+This post contains a few spoilers.
+
+I finished [The Legend of Zelda: Skyward Sword](http://zelda.com/skywardsword/) yesterday evening. For once I nabbed all pieces of heart too.
+
+The game is its usual charming self with bright colors and happy, aloof characters. It certainly still feels like a Zelda game, though it has the <a href="http://www.zelda.com/gcn/">Windwaker</a> sort of overworld: instead of getting bored sailing around the ocean, you get bored flying around the sky. There are plenty of side quests to get better quivers, wallets, bomb bags, or pieces of heart; there's plenty to do, though not in the way of dungeons. There are 7 total, which is less than I would have liked. It still has the usual annoyances in the series too: you have to read through each shop-keepers' introduction's each time you talk to them. You have to read through item descriptions each time you pick one up. (Yes, I know a red rupee is worth 20, why would you tell me each time!?) Surprisingly there are very few block-pushing or torch-lighting puzzles.
+
+This latest installment I found much more enjoyable because of the combat. As you can probably guess, you use the Wii Remote with the motion-plus enhancement to wave your sword around to kill bad guys. The hardware is precise enough that when you swing horizontally, vertically, diagonally, or thrust forwards, Link will do so in game. This makes the combat far more interesting: enemies will position their own weapons to block your attacks from certain directions, and you have to attack at the right angle. You also can ready your shield against attacks as well, and if you time it right you can deliver a parry and riposte. Later enemies ramp up the challenge: 4 armed skeletons parry most attacks unless you string them together correctly. I'd have to say the final encounter against Demise was the best final-boss fight I've been in since Ganon in <a href="http://zelda.com/universe/game/ocarinatime/">Ocarina of Time</a>.
+
+To some extent, the other items in the game make use of the Wii Remote too: point it to aim the bow, swing it around to crack the whip, toss it forward to throw a bomb. Most of those line up with mechanics in <a href="http://www.zelda.com/tp/">Twilight Princess</a>. You also use it to maintain balance when walking on tightropes, or to direct your Loftwing (giant bird) in flight. While this is all a good use of the Wii Remote, you can tell Skyword Sword is what Twilight Princess should have been. The previous game even had the tightropes, but you simply walked across them, no balancing required.
+
+Subjectively I feel like my expectations for the Wii were finally met with this game. The integration with the sensors in the remote was really well done, and it didn't feel like a gimmick or merely Nintendo trying to differentiate itself from the other console vendors. It felt like a vision had come together. I suppose the hardware was just not where it needed to be those short years ago, and Nintendo just had to make do with the technology they had. The 3rd party games really never came together for the Little White Console That Could either, all they've really been are mini-game catalogs, sports simulators or exercise games. Looking ahead I'm not aware of any Wii titles I'm interested in buying, so I think the thing will soon be gathering dust again.
+
+It's been a successful exploration for the company though, I'd say. The Wii has been a <a href="http://en.wikipedia.org/wiki/Console_wars#Seventh_generation">very successful</a> product for Nintendo. Both of the other consoles attempted to mimic the motion sensitive peripherals, with mixed success. These days it is easy to say they're falling from the top but I think that was their strategic plan from the beginning. The 360 and PS3 were designed to be long-term investments, the Wii is yet another 4-6 year console iteration for Nintendo.
+
+Even with the gripes I mentioned earlier, I'd still buy a Wii again knowing what I know about it now. It's the only console I purchased this generation, the 360 came with the wife for free. I bought it because I had to support a new, innovative gaming venture. Nintendo has always sort of been weird in their console design: the Nintendo64 stuck with cartridges when the competition clearly wanted optical disks. Even the generation after that (the Gamecube) used minidisks instead of a real optical disks like CDs or DVDs. The Wii has very little online integration with other internet services, but for the competition that was a major design decision. Why don't they pay attention to the competition at all? That's how you compete: know your enemy.
+
+That's what they've always done though, and they're still around. And notably, I've been playing games by pushing buttons for over 20 years. I want something different. I find it disappointing when they get branded as gimmicky, because I really believe that for gaming to take steps forward, rather than march in place, companies like Nintendo need to exist.
+
+After Skyward Sword I'm probably done with the Wii. It took far longer than I would have liked to get what I wanted, but I'm glad they tried. When they try again with their next iteration, I'll be there for that too.

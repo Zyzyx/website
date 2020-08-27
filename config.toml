@@ -10,11 +10,10 @@ style = "dark"
 [params.comments]
 enable = false
 
-[params.nav]
-showCategories = true
-showTags = true
-
 [[params.nav.custom]]
 title = "About"
 url = "/about"
 
+[[params.nav.custom]]
+title = "Blog"
+url = "/blog"
